@@ -12,17 +12,17 @@ This project allows you to practice the concepts and techniques learned in this 
 
 In this project you'll take this crypto currency tracker app and build two custom hooks that, when composed together, will allow users to set and persist a dark mode preference.
 
-***Make sure to complete your tasks one at a time and complete test each task before proceding forward.***
+***Make sure to complete your tasks one at a time and completely test each task before proceeding forward.***
 
 ## Instructions
 
 ### Task 1: Project Set Up
 
-* [ ] Create a forked copy of this project.
-* [ ] Clone your OWN version of the repository in your terminal
-* [ ] cd into the project base directory `cd web-module-project-custom-hook`
+* [x] Create a forked copy of this project.
+* [x] Clone your OWN version of the repository in your terminal
+* [x] cd into the project base directory `cd web-module-project-custom-hook`
 * [ ] Download project dependencies by running `npm install`
-* [ ] Start up the app using `npm start`
+* [x] Start up the app using `npm start`
 
 ### Task 2: Project Requirements
 
